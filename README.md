@@ -1,9 +1,16 @@
-# React + Vite
+<h2>React Pokedex</h2>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A pokemon pokedex that uses react vite. Using pokeapi (https://pokeapi.co/) to get pokemon information. Currently, when the application is first installed, random pokemon scores from the API call are calculated and a win or lose warning is given.
 
-Currently, two official plugins are available:
+<h2>Available Scripts</h2>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# reactpokedex
+In the project directory, you can run:
+
+### `npm run dev`
+
+Runs the app in the development mode.
+Open http://localhost:3000 to view it in the browser.
+
+The page will reload if you make edits.
+
+<h3>Screen Gif</h3>
