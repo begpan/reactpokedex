@@ -13,4 +13,11 @@ Open http://localhost:3000 to view it in the browser.
 
 The page will reload if you make edits.
 
+<h3>Links</h3>
+
+https://reactpokedex-two.vercel.app/
+https://rreactpokedex.netlify.app/
+
 <h3>Screen Gif</h3>
+
+![pokedexreact](https://github.com/begpan/reactpokedex/assets/145170180/7158db13-7e43-4ddf-8d9e-f1bf875b563b)
