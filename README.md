@@ -15,7 +15,7 @@ The page will reload if you make edits.
 
 <h3>Links</h3>
 
-https://reactpokedex-two.vercel.app/
+https://reactpokedex-two.vercel.app/ <br />
 https://rreactpokedex.netlify.app/
 
 <h3>Screen Gif</h3>
